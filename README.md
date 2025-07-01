@@ -1,4 +1,4 @@
-# Hi, I'm [Uditi] 👋
+# Hi, I'm Uditi 👩🏻‍💻
 
 🎓 Computer Science @ NYU Abu Dhabi | 💡 Passionate about Software Engineering, Startups & Tech for Social Good
 
