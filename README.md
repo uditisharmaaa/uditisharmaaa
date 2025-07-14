@@ -5,9 +5,14 @@
 
 ## 🚀 Projects I'm Proud Of:
 
+### 📅 FalconSched: NYUAD CS Degree Planner  
+> An interactive full-stack course planning web app tailored to NYU Abu Dhabi’s Computer Science major requirements.  
+💻 [GitHub Repo](https://github.com/uditisharmaaa/falcon-Sched)
+
+
 ### 📊 BudgetAD - FAB Expense Dashboard
 > A full-stack web app to visualize student FAB card spending at NYUAD.  
-[🔗 Live Demo](https://your-deployed-app-link.com) | [💻 GitHub Repo](https://github.com/uditisharmaaa/BudgetAD)
+[💻 GitHub Repo](https://github.com/uditisharmaaa/BudgetAD)
 
 - Built with React, Flask, PostgreSQL
 - Features include: Interactive spending charts, year filters, and subscription detection
