@@ -20,7 +20,7 @@
 
 ### 📚 Journa: AI-Powered CBT Journal Web App
 > A mental wellness journaling tool based on cognitive behavioral therapy (CBT) techniques.  
-[🔗 Live Demo](https://your-deployed-app-link.com) | [💻 GitHub Repo](https://github.com/uditisharmaaa/Journa)
+[💻 GitHub Repo](https://github.com/uditisharmaaa/Journa)
 
 - React + Supabase
 - Users can create private journal entries, track mood patterns, and search through past logs
@@ -29,7 +29,7 @@
 
 ### 🛒 ChopChop: Grocery Receipt to Recipe Generator
 > Scan your grocery receipt and get smart recipe suggestions based on your fridge items.  
-[🔗 Live Demo](https://your-deployed-app-link.com) | [💻 GitHub Repo](https://github.com/uditisharmaaa/ChopChop)
+[💻 GitHub Repo](https://github.com/uditisharmaaa/ChopChop)
 
 - Built with React, Supabase, OpenAI API
 - Login, scan receipts, track perishables, and get recipes
