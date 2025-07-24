@@ -1,6 +1,6 @@
 # Hi, I'm Uditi 👩🏻‍💻
 
-🎓 Computer Science @ NYU Abu Dhabi | 💡 Passionate about Software Engineering, Startups & Tech for Social Good
+🎓 Computer Science @ NYU Abu Dhabi | 💡 Passionate about product, startups & tech for social good! 
 
 
 ## 🚀 Projects I'm Proud Of:
